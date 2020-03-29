@@ -2,7 +2,7 @@
 
 ## Primeiros passos para criação de testes automatizados com a linguagem Python e o framework Unittes
 
-#### Autores: Denini Gabriel - "@denini08" && Saulo Barros - "@dinosaulo"
+Autores: Denini Gabriel - @denini08 && Saulo Barros - @dinosaulo
 
 **Atenção :** Para realizar esse tutorial é necessário possuir instalado em sua máquina o Python3, caso não possuia basta baixa-lo [aqui](https://www.python.org/downloads/) e intala-lo. Também é recomendável possuir conhecimento básico da linguagem.
 
